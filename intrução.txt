@@ -1,7 +1,0 @@
-#comandos
-iniciar o projeto - git init
-arquivos salvar -git status
-adicionar o arquivos - git add "nome do arquivos"||git add .
-salvar no git - git comit -a -m "nome do tema da atualização"
--a ->permitir todos os tipos de arquivos  
--m -> é adicionar uma mensagem (para cada atualização)
